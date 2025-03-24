@@ -3,3 +3,4 @@ openquake/engine:latest
 openquake/engine:3.16
 openquake/engine:nightly
 openquake/engine:3.21.0
+docker pull xprobe/xinference:v1.4.0
