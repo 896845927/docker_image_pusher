@@ -1,1 +1,1 @@
-docker pull xprobe/xinference:v1.4.0
+xprobe/xinference:v1.4.0
