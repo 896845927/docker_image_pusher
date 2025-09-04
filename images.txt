@@ -1,2 +1,5 @@
 xprobe/xinference:v1.4.0
 xprobe/xinference:latest
+xprobe/xinference:v1.9.1
+xprobe/xinference:v1.9.0
+xprobe/xinference:nightly-main
